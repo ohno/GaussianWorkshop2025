@@ -23,7 +23,7 @@ TS
 
 --Link1--
 %chk=isomerization.chk
-# HF/ChkBasis Geom=Check Guess=Read IRC=(CalcAll,maxpoints=60,StepSize=20)
+# HF/ChkBasis Geom=Check Guess=Read IRC=(CalcAll,maxpoints=30,StepSize=20)
 
 IRC
 
