@@ -1,0 +1,48 @@
+# Julia
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
+deps/deps.jl
+deps/build.log
+deps/downloads/
+deps/usr/
+deps/src/
+docs/build/
+docs/site/
+/docs/Manifest.toml
+Manifest.toml
+
+# Jupyter Notebook
+# *.ipynb
+.ipynb_checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+*/.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Gaussian
+# *.gjf
+*.out
+*.chk
+*.fchk
+*.inp
+*.chk
+*.d2e
+*.rwf
+*.int
+*.skr
+*.nbo
+*Scratch
+
+# GAMESS, SMASH
+*.log
+
+# examples
+examples/hello/R=1.30.gjf
+examples/hello/R=1.32.gjf
+examples/hello/R=1.34.gjf
+examples/hello/R=1.36.gjf
+examples/hello/R=1.38.gjf
+*.xlsx
+*.png
